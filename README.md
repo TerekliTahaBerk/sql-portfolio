@@ -11,17 +11,17 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 ## Repository Structure
 
-- ### LeetCode Solutions
+- ### [LeetCode Solutions](https://github.com/TerekliTahaBerk/sql-portfolio/tree/main/LeetCode%20Solutions)
   - This section contains a collection of SQL solutions to various problems available on the LeetCode platform. Each solution is carefully crafted to demonstrate best practices in writing efficient and optimized SQL queries.
   - The problems cover fundamental and advanced SQL concepts, such as data filtering, sorting, grouping, and aggregation. Additionally, more complex topics like multi-table joins, subqueries, common table expressions (CTEs), and window functions are also addressed.
   - By solving these challenges, I have strengthened my problem-solving skills and deepened my understanding of query performance optimization, making my SQL code more efficient and scalable.
 
-- ### Northwind Exercise
+- ### [Northwind Exercise](https://github.com/TerekliTahaBerk/sql-portfolio/tree/main/Northwind%20Exercises)
   - This section contains a set of SQL queries and analyses performed on the widely used Northwind database, which simulates a real-world business scenario with customers, orders, suppliers, and products.
   - The queries demonstrate techniques for retrieving and analyzing business-related data, such as sales trends, customer segmentation, supplier relationships, and product performance.
   - Through this project, I have gained hands-on experience in handling structured business data, designing efficient queries for extracting meaningful insights, and optimizing database performance for better efficiency.
 
-- ### Real World Projects (DataCamp)
+- ### [Real World Projects (DataCamp)](https://github.com/TerekliTahaBerk/sql-portfolio/tree/main/Real%20World%20Projects%20(DataCamp))
   - This section includes hands-on SQL projects from DataCamp, focusing on real-world data analysis and business intelligence applications.
   - These projects involve working with large and complex datasets, requiring the application of SQL techniques such as data cleaning, normalization, and indexing to ensure optimal performance.
   - The goal of these projects is to derive actionable insights from data, helping businesses make data-driven decisions based on trends, patterns, and statistical analysis.
