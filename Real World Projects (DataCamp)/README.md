@@ -1,4 +1,4 @@
-# SQL Portfolio: Real World Projects (DataCamp)
+# Real World Projects (DataCamp)
 This repository showcases my SQL portfolio, featuring projects completed on DataCamp. It highlights various analytical challenges and SQL techniques, demonstrating my skills in data manipulation, analysis, and problem-solving through real-world scenarios.
 
 *Note: Data used in the projects is for demonstration purposes only.*
