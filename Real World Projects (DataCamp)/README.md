@@ -5,9 +5,9 @@ This repository showcases my SQL portfolio, featuring projects completed on Data
 
 ## Contents
 ### SQL Projects
-1. **Analyzing Electric Vehicle Charging Habits**: This project examines patterns in electric vehicle charging data to uncover insights about user behavior, peak usage times, and charging duration trends. By applying SQL queries to analyze charging sessions across different locations and time periods, this analysis provides valuable information for optimizing charging infrastructure and understanding EV adoption patterns.
+1. [Analyzing Electric Vehicle Charging Habits](https://github.com/TerekliTahaBerk/sql-portfolio/tree/main/Real%20World%20Projects%20(DataCamp)/Analyzing%20Electric%20Vehicle%20Charging%20Habits): This project examines patterns in electric vehicle charging data to uncover insights about user behavior, peak usage times, and charging duration trends. By applying SQL queries to analyze charging sessions across different locations and time periods, this analysis provides valuable information for optimizing charging infrastructure and understanding EV adoption patterns.
 
-2. **Analyze International Debt Statistics**: This project explores international debt data collected by The World Bank across countries worldwide. Through SQL queries, I investigate questions such as the total amount of debt, countries with the highest debts, average debt indicators, and debt distribution patterns. The analysis reveals important insights about global economic patterns and financial challenges faced by different nations.
+2. [Analyze International Debt Statistics](https://github.com/TerekliTahaBerk/sql-portfolio/tree/main/Real%20World%20Projects%20(DataCamp)/Analyze%20International%20Debt%20Statistics): This project explores international debt data collected by The World Bank across countries worldwide. Through SQL queries, I investigate questions such as the total amount of debt, countries with the highest debts, average debt indicators, and debt distribution patterns. The analysis reveals important insights about global economic patterns and financial challenges faced by different nations.
 
 ## Tools
 - PostgreSQL
@@ -15,4 +15,4 @@ This repository showcases my SQL portfolio, featuring projects completed on Data
 - DataCamp's SQL interface
 
 ## ☕️ Support My Work
-If this project inspired you, provided ideas for your own portfolio or helped in any way, please consider buying me a coffee ❤️. Your support motivates me to keep creating and sharing valuable content!
+If this project inspired you, provided ideas for your own portfolio or helped in any way, please consider [buying me a coffee](https://www.buymeacoffee.com/tahaberkterekli) ❤️. Your support motivates me to keep creating and sharing valuable content! 
