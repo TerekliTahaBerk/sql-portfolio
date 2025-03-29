@@ -2,9 +2,9 @@
 
 This repository contains SQL exercises based on the classic **Northwind** database. These exercises cover fundamental SQL concepts such as data retrieval, filtering, aggregation, joins, subqueries, and database modifications. Working through these challenges helps improve SQL skills and prepares for real-world database queries.
 
-## 📂 Exercises
+## Exercises
 
-### [Querying the Database – Part 1](https://github.com/TerekliTahaBerk/sql-portfolio/blob/main/Northwind%20Exercises/SQL%20Practice%20Exercises%20General.sql)
+### [Querying the Database – Part 1](https://github.com/TerekliTahaBerk/sql-portfolio/blob/main/Northwind%20Exercises/SQL%20Practice%20Exercises%20General%20-%20Part%201.sql)
 
 1. Retrieve all category names with their descriptions from the **Categories** table.  
 2. List the contact name, customer ID, and company name of all customers in **London**.  
@@ -27,7 +27,7 @@ This repository contains SQL exercises based on the classic **Northwind** databa
 19. Remove yourself and your order from the database.  
 20. Retrieve **products with total stock** greater than **100**, using alias **'TotalUnits'**.  
 
-### Querying the Database – Part 2
+### [Querying the Database – Part 2](https://github.com/TerekliTahaBerk/sql-portfolio/blob/main/Northwind%20Exercises/SQL%20Practice%20Exercises%20General%20-%20Part%202.sql)
 
 21. Select **name, address, city, and region** of employees.  
 22. Retrieve the same data but only for employees **living in the USA**.  
@@ -60,7 +60,7 @@ This repository contains SQL exercises based on the classic **Northwind** databa
 
 - **PostgreSQL**  
 - **SQL Server**  
-- **SQLite**  
+- **Microsoft SQL Server Studio**  
 - **Northwind Database**  
 
 ## ☕️ Support My Work
